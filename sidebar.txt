@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ncs:home|Door43 (ncs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ncs|d43-ncs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ncs/archive/master.zip|d43-ncs.zip]]
+
+**Recent Changes**
+{{changes>ns = ncs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ncs|Ethnologue data]]
+
